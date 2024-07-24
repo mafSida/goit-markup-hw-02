@@ -1,3 +1,86 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+}
+.header-nav {
+}
+.header-logo {
+}
+.header-logo-studio {
+}
+.header-menu-list {
+}
+.header-menu-item {
+}
+.header-menu-link {
+}
+.header-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.hero {
+}
+.hero-title {
+}
+.hero-order-btn {
+}
+.features {
+}
+.features-title {
+}
+.features-list {
+}
+.features-list-item {
+}
+.features-list-title {
+}
+.features-list-text {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-list-item {
+}
+.team-list-img {
+}
+.team-list-title {
+}
+.team-list-text {
+}
+.product {
+}
+.product-title {
+}
+.product-list {
+}
+.product-list-item {
+}
+.product-list-img {
+}
+.product-list-title {
+}
+.product-list-text {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-logo-studio {
+}
+.footer-text {
 }
