@@ -51,7 +51,6 @@ a {
 .header-address-item {
 }
 .header-address-link {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -90,7 +89,6 @@ a {
   color: #2e2f42;
 }
 .features-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -121,7 +119,6 @@ a {
   color: #2e2f42;
 }
 .team-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -133,7 +130,7 @@ a {
 .product-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -152,7 +149,6 @@ a {
   color: #2e2f42;
 }
 .product-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -172,7 +168,6 @@ a {
   color: #f4f4fd;
 }
 .footer-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
