@@ -106,7 +106,8 @@ button {
   background-color: #4d5ae5;
 }
 
-.hero-order-btn:hover {
+.hero-order-btn:hover,
+.hero-order-btn:focus {
   border-color: ;
   color: #ffffff;
   background-color: #404bbf;
