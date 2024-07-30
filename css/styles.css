@@ -21,7 +21,7 @@ button {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -61,11 +61,12 @@ button {
   color: #404bbf;
 }
 
-.header-menu-link .studio:focus {
+.header-menu-link:focus {
   color: #404bbf;
 }
 
 .header-address {
+  font-style: normal;
 }
 .header-address-list {
 }
@@ -78,7 +79,8 @@ button {
   color: #434455;
 }
 
-.header-address-link:hover {
+.header-address-link:hover,
+.header-address-link:focus {
   color: #404bbf;
 }
 
@@ -101,11 +103,13 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  background-color: #4d5ae5;
 }
 
 .hero-order-btn:hover {
   border-color: ;
   color: #ffffff;
+  background-color: #404bbf;
 }
 
 /* FEATURES */
@@ -144,10 +148,12 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-list {
 }
 .team-list-item {
+  background-color: #ffffff;
 }
 .team-list-img {
 }
@@ -178,6 +184,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .product-list {
 }
@@ -210,7 +217,7 @@ button {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
